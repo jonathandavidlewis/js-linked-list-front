@@ -1,0 +1,1 @@
+This project aims to be a collection of data models and higher order functions implemented in JavaScript and visualized in the chrome.
