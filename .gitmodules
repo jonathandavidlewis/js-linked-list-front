@@ -1,0 +1,3 @@
+[submodule "js-linked-list"]
+	path = js-linked-list
+	url = https://github.com/riftrid3r/js-linked-list.git
